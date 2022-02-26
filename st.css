@@ -1,0 +1,108 @@
+body {
+    background-color:#DBD7D2;
+}
+/*оформление таблицы 1*/
+table {
+    font-family: sans-serif;
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 5px;
+    background: #FBF076;
+    color: #293133;
+    border: 16px solid #f8f32b;
+    border-radius: 5px;
+    
+}
+th {
+    font-size: 15px;
+    padding-bottom: 5px;
+}
+td {
+    padding: 5px;
+}
+/*офщрмление таблицы 2*/
+
+ #table2 {
+    font-family: sans-serif;
+    font-size: 15px;
+    border-collapse: collapse;
+    text-align: center;
+    border-spacing: 100px;
+     border: 5px;
+     background: #ffff;
+}
+table#table2 th, table#table2 td:first-child {
+    color:black;
+    background-color: darkcyan;
+    padding: 10px 20px;    
+}
+/*оформление таблицы 3*/
+#table3 {
+    font-family: sans-serif;
+    text-align: center;
+    border-collapse:inherit;
+    border-spacing: 5px;
+    background: #FACFD4;
+    color: #293133;
+    border: 10px solid #f8f32b;
+    border-radius: 5px;
+    
+}
+table#table3 th, table#table3 td {
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+}
+select {
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 5px;
+    background: #F7F0FA;
+    color: #293133;
+    border: 5px solid #F1FDFA;
+    border-radius: 5px;
+    width: 60%;
+}
+
+button {
+    align-content: center;
+    border-collapse: inherit;
+    font-size: 25px;
+    color: #293133;
+}
+
+
+
+.month-select {
+    background-color:#293133 ;
+    padding: 15px;
+    
+    
+}
+.result {
+    background-color: #d4ebe9;
+    width: 150px;
+    padding: 6px;
+    border-radius: 15px;
+    border: 5px solid #F1FDFA;
+    margin: auto;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
